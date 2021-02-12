@@ -1,4 +1,4 @@
-# Exploratory data analysis(EDA) repo summary:
+Simple data wrangling and EDA using APIs related to the local temperatures and libraries in my hometown.
 
 
 ### PROJECT 1: EDA on hometown data utilizing API's, datetime manipulations, Pandas and matplotlib (all this as a link to notebook)
