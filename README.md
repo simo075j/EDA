@@ -3,4 +3,4 @@
 
 In this project the objective is to illustrate understanding of the most basic aspects of data science and how it can be applied to extract real-life information about things that i enjoy in the city; Good weather and local study spaces at the libraries.
 
-### PROJECT 2: EDA on my own investment portfolio
+### PROJECT 2: EDA portfolio
